@@ -5,7 +5,7 @@ Material de apoyo para realizar un interprete
 * Expresiones 
 
 ## Acceso
-https://selvinlp.github.io/InterpreteTS/https://selvinlp.github.io/InterpreteTS/
+https://selvinlp.github.io/InterpreteTS/
 
 ## Comandos 🔧
 _Al descargar de github utilizar_
